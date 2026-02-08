@@ -8,11 +8,11 @@ The Martingale strategy is a process $X_n$ such that the conditional expectation
 $$E[X_{n+1} | X_n = X_n$$
 
 ## Features
-\itemise{
-\item{**Object-Oriented Programming:**}
-\item{**Liquidity Logic**}
-\item{**Visualisation**}
-}
+
+- **Object-Oriented Programming:**
+- **Liquidity Logic**
+- **Visualisation**
+
 ## How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install matplotlib`.

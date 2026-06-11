@@ -5,7 +5,7 @@ This is a python-based project modeling a Monte Carlo Simulation designed to mod
 
 ## The Mathematics
 The Martingale strategy is a process $X_n$ such that the conditional expectation of the subsequent value, given the current value, is equal to the current value. In mathematical terms:
-$$E[X_{n+1} | X_n = X_n$$
+$$E[X_{n+1} | X_n = X_n]$$
 
 ## Features
 
